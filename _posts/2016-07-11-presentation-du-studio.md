@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Images '
-datePublished: '2016-07-11T01:17:50.386Z'
-dateModified: '2016-07-11T01:16:47.469Z'
+datePublished: '2016-07-11T01:19:10.902Z'
+dateModified: '2016-07-11T01:17:58.693Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-11-presentation-du-studio.md

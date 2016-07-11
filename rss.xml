@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com]]></title>
         <description><![CDATA[Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arbour-construction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 00:48:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 00:56:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arbour-construction/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Présentation du studio]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a61d22b-6278-49a3-a516-79137d923328.jpg">]]></description>
-            <link>undefinedpresentation-du-studio/index.html</link>
+            <link>https://thegrid.ai/arbour-construction/presentation-du-studio/index.html</link>
             <guid isPermaLink="false">468619e0-23e4-449d-ac9f-56ff17233b08</guid>
-            <pubDate>Mon, 11 Jul 2016 00:48:02 GMT</pubDate>
+            <pubDate>Mon, 11 Jul 2016 00:56:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

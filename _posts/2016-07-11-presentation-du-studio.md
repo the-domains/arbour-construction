@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Images '
-datePublished: '2016-07-11T00:56:22.075Z'
-dateModified: '2016-07-11T00:48:08.121Z'
+datePublished: '2016-07-11T01:16:40.143Z'
+dateModified: '2016-07-11T00:56:31.798Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-11-presentation-du-studio.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: presentation-du-studio/index.html
 _type: Article
 

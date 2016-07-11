@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com]]></title>
+        <description><![CDATA[Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jul 2016 00:48:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Présentation du studio]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a61d22b-6278-49a3-a516-79137d923328.jpg">]]></description>
+            <link>undefinedpresentation-du-studio/index.html</link>
+            <guid isPermaLink="false">468619e0-23e4-449d-ac9f-56ff17233b08</guid>
+            <pubDate>Mon, 11 Jul 2016 00:48:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

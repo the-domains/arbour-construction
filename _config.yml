@@ -1,29 +1,41 @@
-name: Arbour Construction Images
-favicon: null
-layout_spectrum: 0.48501
-typography_spectrum: 0.70739
 title: Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.9892473
+  lightness: 0
   brandColors:
     - '#060606'
     - '#fefefe'
     - '#505050'
     - '#747474'
     - '#b8b8b8'
-  brandStrength: 0.9375
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Arbour Construction Images
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1379928
+layout_spectrum: 0.2311828

@@ -14,14 +14,14 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.4910394
-  brandStrength: 0.4516129
+  brandStrength: 0.4892473
   lightness: 0
   brandColors:
-    - '#060606'
-    - '#fefefe'
-    - '#505050'
-    - '#747474'
-    - '#b8b8b8'
+    - '#C4CBDD'
+    - '#5C554D'
+    - '#7C7F84'
+    - '#08090E'
+    - '#FCFFFF'
   rhythmicContrast: 0.4892473
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Arbour Construction Images
 favicon: null
+name: Arbour Construction Images
 opengraph:
   image: null
   type: null

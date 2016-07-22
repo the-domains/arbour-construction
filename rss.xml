@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com]]></title>
         <description><![CDATA[Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arbour-construction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 01:53:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 02:10:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arbour-construction/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cc605d-1e38-444e-9c8f-6eb28621d22a.jpg" alt="Iqaluit, Nunavut. Client: Colas Canada.">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cc605d-1e38-444e-9c8f-6eb28621d22a.jpg</link>
-            <guid isPermaLink="false">58f5ccf0-72c2-4cb3-84c5-419a9a876063</guid>
-            <pubDate>Fri, 22 Jul 2016 01:53:31 GMT</pubDate>
+            <title><![CDATA[Images de chantier]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b802b68-0b01-4d81-864f-6912ed5ea79a.jpg">]]></description>
+            <link>https://thegrid.ai/arbour-construction/images-de-chantier/index.html</link>
+            <guid isPermaLink="false">0aae2f10-2be0-4d7b-9ab4-e2e456a759a3</guid>
+            <pubDate>Fri, 22 Jul 2016 01:53:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

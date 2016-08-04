@@ -1,5 +1,34 @@
-title: Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com
-purpose: []
+typography_spectrum: 0.1379928
+color:
+  saturation: 0.5017921
+  brandStrength: 0.4892473
+  lightness: 0.4749104
+  brandColors:
+    - '#C4CBDD'
+    - '#5C554D'
+    - '#7C7F84'
+    - '#08090E'
+    - '#FCFFFF'
+  rhythmicContrast: 0.4892473
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7921147
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Sebastien Arbour
+  email: Arbour@ArbourPhoto.com
+  url: www.ArbourPhoto.com
+name: Arbour Construction Images
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5017921
-  brandStrength: 0.4892473
-  lightness: 0.4749104
-  brandColors:
-    - '#C4CBDD'
-    - '#5C554D'
-    - '#7C7F84'
-    - '#08090E'
-    - '#FCFFFF'
-  rhythmicContrast: 0.4892473
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Arbour Construction Images
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1379928
-layout_spectrum: 0.7921147
+title: Arbour Photographe 450.961.7815  Arbour@ArbourPhoto.com
+purpose: []
